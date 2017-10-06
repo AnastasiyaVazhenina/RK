@@ -10,7 +10,7 @@ ADD_DEFINITIONS(
 
 # enum your files
 add_executable(executable
-	lab03.cpp
+	rk.cpp
 )
 
 target_link_libraries(executable)
